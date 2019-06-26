@@ -75,13 +75,13 @@ the arp is not rully relized, but it basicly takes the current note and arps it.
 seq5 is the drum machine by Otto van Zanten . I adapted it to work with my code, basicly just removed the controlling function and renamed the cues, but that should be it ... it worked very well, never gave me any troubles. Funny thing is: This is exactly how this program started out: a drum sequencer. hen it grew out of it, and imported it back in. I am not really good a arranging drums, and there is no way to edit the drum-rythm from the controller - the rythm stays.
 
 
-seq6 is the path, the sequencer follows through the sequence. It basicly translates the jog-dial movements into a ring of values, the sequencer can run through. Its dumb, but it was a experiment that worked quite well.
+seq6 is the path, the sequencer follows through the sequence. It basicly translates the jog-dial movements into a ring of values, the sequencer can run through. Its dumb, but it was a experiment that worked quite well. withouth the path, the sequencer will stay at step 1. (because that is the path that got initialized in seq1-file)
 
 
 
 
 Confused?
-ok.
+ok. me too.
 
 
 
